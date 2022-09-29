@@ -24,7 +24,7 @@ public class Main {
 
 		byte index = 0;
 		while (conTinue == true) {
-			System.out.println("\n" + "Order value: " + order);
+			// System.out.println("\n" + "Order value: " + order);
 
 			if (order == true) {
 				System.out.println("Top card:" + UnoDeck.lastCard(UnoDeck.playedDeck) + "\n");
