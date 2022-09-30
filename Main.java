@@ -1,4 +1,3 @@
-import java.util.Scanner;
 import java.util.ArrayList;
 
 public class Main {
@@ -8,7 +7,6 @@ public class Main {
 	public static boolean conTinue = true;
 
 	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
 
 		ArrayList<ArrayList<String>> order1 = new ArrayList<>(1);
 

@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -69,7 +68,7 @@ public class UnoDeck {
 		 * next check would be made.
 		 * 
 		 */
-		System.out.println(playerID.get(0) + " deck: " + playerID);
+		// System.out.println(playerID.get(0) + " deck: " + playerID);
 		if (playerID.size() == 1) {
 			Main.conTinue = false;
 
