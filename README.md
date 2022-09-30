@@ -21,4 +21,4 @@ Rules:
 
 ## Screenshot
 
-![](/Text-Based-Uno/screenshot.png)
+![Game Screenshot](/Text-Based-Uno/game-screenshot.png)
