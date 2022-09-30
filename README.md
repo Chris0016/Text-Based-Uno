@@ -19,4 +19,6 @@ Rules:
     javaC runDeck.java unoDeck.java
     java Main.java
 
+## Screenshot
+
 ![](/Text-Based-Uno/screenshot.png)
